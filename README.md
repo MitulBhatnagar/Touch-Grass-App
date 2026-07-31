@@ -17,7 +17,8 @@ Designed to combat the modern reality of 8 to 12-hour daily screen time averages
 
 | Dashboard View | Detailed Breakdown | AI Notification |
 | :---: | :---: | :---: |
-| *(Add Screenshot)* | *(Add Screenshot)* | *(Add Screenshot)* |
+| ![Uploading Screenshot_20260726-185336_TouchGrassApp.png…]()
+ | *(Add Screenshot)* | *(Add Screenshot)* |
 
 ---
 
