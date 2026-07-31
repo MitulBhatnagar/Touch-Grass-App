@@ -17,8 +17,7 @@ Designed to combat the modern reality of 8 to 12-hour daily screen time averages
 
 | Dashboard View | Detailed Breakdown | AI Notification |
 | :---: | :---: | :---: |
-| ![Uploading Screenshot_20260726-185336_TouchGrassApp.png…]()
- | *(Add Screenshot)* | *(Add Screenshot)* |
+| <img width="1080" height="1272" alt="WhatsApp Image 2026-07-26 at 10 21 37 PM" src="https://github.com/user-attachments/assets/00a76475-db92-4035-a8b1-4755363a584d" /> | <img width="720" height="873" alt="WhatsApp Image 2026-07-31 at 11 22 30 PM" src="https://github.com/user-attachments/assets/f69681db-9b45-42e3-bf27-58c8f6ce8b76" /> | 
 
 ---
 
