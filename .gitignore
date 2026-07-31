@@ -43,3 +43,8 @@ yarn-error.*
 # Prevent massive app files and hidden keys from uploading
 *.apk
 .env
+
+# Python Backend
+__pycache__/
+*.pyc
+venv/
