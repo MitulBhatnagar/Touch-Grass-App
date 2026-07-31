@@ -1,0 +1,27 @@
+{
+  "name": "touchgrassapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@react-native-community/netinfo": "12.0.1",
+    "axios": "^1.18.1",
+    "expo": "^57.0.8",
+    "expo-android-usagestats": "^1.2.0",
+    "expo-background-fetch": "~57.0.6",
+    "expo-notifications": "^57.0.7",
+    "expo-status-bar": "~57.0.1",
+    "expo-system-ui": "~57.0.1",
+    "expo-task-manager": "~57.0.6",
+    "react": "19.2.3",
+    "react-native": "^0.86.0",
+    "react-native-chart-kit": "^7.0.2",
+    "react-native-svg": "15.15.4"
+  },
+  "private": true
+}
