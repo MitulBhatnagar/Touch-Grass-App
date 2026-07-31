@@ -14,7 +14,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-API_KEY = "AIzaSyBymOC3h4iZj24aKkNvvGrDKMk9U16N7Ow"
+API_KEY = " "
 client = genai.Client(api_key=API_KEY)
 
 class RoastRequest(BaseModel):
